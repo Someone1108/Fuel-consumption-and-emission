@@ -1,0 +1,288 @@
+Make,Model,Space (cu ft),MSRP,Sedan,Value ($ per cu ft),Third Row
+Acura,Integra,24.3,"$31,800",Y,"$1,308.00",N
+Acura,RDX,29.5,"$44,350",N,"$1,503.00",N
+Acura,ZDX,28.0,"$64,500",N,"$2,303.00",N
+Acura,MDX,16.3,"$50,150",N,"$3,076.00",Y
+Acura,TLX,13.5,"$45,000",Y,"$3,333.00",N
+Alfa Romeo,Tonale,22.9,"$43,845",N,"$1,914.00",N
+Alfa Romeo,Stelvio,18.5,"$45,950",N,"$2,483.00",N
+Alfa Romeo,Giulia,13.4,"$43,340",Y,"$3,234.00",N
+Audi,Q3,23.7,"$37,400",N,"$1,578.00",N
+Audi,Q5,25.9,"$45,300",N,"$1,749.00",N
+Audi,Q4 E-tron,24.8,"$55,200",N,"$2,225.00",N
+Audi,Q8 ,30.5,"$73,700",N,"$2,416.00",N
+Audi,Q8 E-tron,28.5,"$74,400",N,"$2,610.00",N
+Audi,A7,24.9,"$72,000",Y,"$2,891.00",N
+Audi,A3,10.9,"$35,800",Y,"$3,284.00",N
+Audi,A4,12.0,"$41,900",Y,"$3,491.00",N
+Audi,A6,13.7,"$58,100",Y,"$4,240.00",N
+Audi,A5,10.9,"$48,400",Y,"$4,440.00",N
+Audi,A8,12.5,"$90,900",Y,"$7,272.00",N
+Audi,E-tron GT,9.2,"$106,500",Y,"$11,576.00",N
+Audi ,Q7,14.2,"$60,500",N,"$4,260.00",Y
+BMW,X1,25.6,"$40,500",N,"$1,582.00",N
+BMW,X3,28.7,"$46,900",N,"$1,634.00",N
+BMW,X5,33.9,"$65,700",N,"$1,938.00",N
+BMW,iX,35.5,"$87,250",N,"$2,457.00",N
+BMW,3 Series ,17.0,"$44,500",Y,"$2,617.00",N
+BMW,X6,27.4,"$74,500",N,"$2,718.00",N
+BMW,X4,18.5,"$55,000",N,"$2,972.00",N
+BMW,5 Series,18.4,"$57,900",Y,"$3,146.00",N
+BMW,i5,17.3,"$66,800",Y,"$3,861.00",N
+BMW,2 Series,10.0,"$38,800",Y,"$3,880.00",N
+BMW,4 Series,12.0,"$51,695",Y,"$4,307.00",N
+BMW,7 Series,19.1,"$96,400",Y,"$5,047.00",N
+BMW,i4,10.0,"$52,200",Y,"$5,220.00",N
+BMW,Z4,9.9,"$54,050",Y,"$5,459.00",N
+BMW,i7,17.7,"$105,700",Y,"$5,971.00",N
+BMW,8 Series,14.8,"$90,800",Y,"$6,135.00",N
+BMW,X7,12.8,"$83,500",N,"$6,523.00",Y
+BMW,XM,18.6,"$159,000",N,"$8,548.00",N
+Buick,Envista,20.7,"$23,495",N,"$1,135.00",N
+Buick,Encore GX,23.5,"$26,895",N,"$1,144.00",N
+Buick,Enclave,23.6,"$43,900",N,"$1,860.00",N
+Buick ,Envision,25.2,"$34,795",N,"$1,380.00",N
+Cadillac,XT5,30.0,"$43,895",N,"$1,463.00",N
+Cadillac,XT4,22.5,"$37,895",N,"$1,684.00",N
+Cadillac,Lyriq,28.0,"$58,590",N,"$2,092.00",N
+Cadillac,Escalade,25.5,"$81,895",N,"$3,211.00",Y
+Cadillac,CT4,10.7,"$35,990",Y,"$3,363.00",N
+Cadillac,XT6,12.6,"$48,795",N,"$3,872.00",Y
+Cadillac,CT5,11.9,"$47,595",Y,"$3,999.00",N
+Chevrolet,Colorado,41.9,"$29,500",N,$704.00,N
+Chevrolet,Trax,25.6,"$20,400",N,$796.00,N
+Chevrolet,Equinox,29.9,"$26,600",N,$889.00,N
+Chevrolet,Trailblazer,25.3,"$23,100",N,$913.00,N
+Chevrolet,Blazer,30.5,"$35,400",N,"$1,160.00",N
+Chevrolet,Suburban,41.5,"$59,200",N,"$1,426.00",Y
+Chevrolet,Malibu,15.7,"$25,100",Y,"$1,598.00",N
+Chevrolet,Traverse,22.9,"$37,600",N,"$1,641.00",Y
+Chevrolet,Tahoe,25.5,"$56,200",N,"$2,203.00",Y
+Chevrolet,Camaro,9.1,"$30,900",Y,"$3,395.00",N
+Chevrolet,Corvette,12.6,"$68,300",Y,"$5,420.00",N
+Chrysler,Pacifica,32.3,"$39,400",N,"$1,219.00",Y
+Dodge,Durango,43.3,"$40,640",N,$938.00,N
+Dodge,Hornet,27.0,"$31,400",N,"$1,162.00",N
+Dodge,Challenger,16.2,"$32,800",Y,"$2,024.00",N
+Dodge,Charger,16.5,"$35,325",Y,"$2,140.00",N
+Fiat,500X,14.1,"$30,245",N,"$2,145.00",N
+Ford,Maverick,33.3,"$23,815",N,$715.00,N
+Ford,Ranger,43.5,"$32,670",N,$751.00,N
+Ford,Escape,37.5,"$29,495",N,$786.00,N
+Ford,Bronco Sport,32.5,"$31,230",N,$960.00,N
+Ford,Edge,39.2,"$38,465",N,$981.00,N
+Ford,Mustang Mach-E,29.7,"$39,895",N,"$1,343.00",N
+Ford,Bronco,22.4,"$39,630",N,"$1,769.00",N
+Ford,Explorer,18.2,"$36,860",N,"$2,025.00",Y
+Ford,Mustang,13.5,"$30,920",Y,"$2,290.00",N
+Ford,Expedition,19.3,"$55,525",N,"$2,876.00",Y
+Genesis,GV70,28.9,"$45,150",N,"$1,562.00",N
+Genesis,GV80,34.9,"$57,700",N,"$1,653.00",N
+Genesis,GV60,24.0,"$52,000",N,"$2,166.00",N
+Genesis,G70,10.5,"$41,500",Y,"$3,952.00",N
+Genesis,G80,13.1,"$54,400",Y,"$4,152.00",N
+Genesis,G90,12.0,"$89,200",Y,"$7,433.00",N
+GMC,Canyon,41.9,"$36,000",N,$859.00,N
+GMC,Terrain,29.6,"$28,700",N,$969.00,N
+GMC,Yukon,25.5,"$58,200",N,"$2,282.00",Y
+GMC,Hummer EV Pickup,36.7,"$96,550",N,"$2,630.00",N
+GMC,Hummer EV,35.9,"$96,550",N,"$2,689.00",N
+GMC,Acadia,12.8,"$36,800",N,"$2,875.00",Y
+Honda,CRV,39.3,"$29,500",N,$750.00,N
+Honda,HRV,24.4,"$24,600",N,"$1,008.00",N
+Honda,Passport,41.2,"$41,900",N,"$1,016.00",N
+Honda,Civic Hatch,24.5,"$24,950",Y,"$1,018.00",N
+Honda,Odyssey,32.8,"$38,240",N,"$1,165.00",Y
+Honda,Ridgeline,33.9,"$39,750",N,"$1,172.00",N
+Honda,Civic Sedan,14.8,"$23,950",Y,"$1,618.00",N
+Honda,Accord,16.7,"$27,895",Y,"$1,670.00",N
+Honda,Pilot,18.6,"$39,900",N,"$2,145.00",Y
+Hyundai,Tucson,41.2,"$27,500",N,$667.00,N
+Hyundai,Kona,25.5,"$24,250",N,$950.00,N
+Hyundai,Santa Cruz,27.0,"$26,900",N,$996.00,N
+Hyundai,Venue,18.7,"$19,900",N,"$1,064.00",N
+Hyundai,Elantra,14.2,"$21,625",Y,"$1,522.00",N
+Hyundai,Ioniq 5,27.2,"$41,800",N,"$1,536.00",N
+Hyundai,Sonata,15.6,"$27,500",Y,"$1,762.00",N
+Hyundai,Palisade,18.0,"$36,650",N,"$2,036.00",Y
+Hyundai,Santa Fe,14.6,"$33,950",N,"$2,325.00",Y
+Hyundai,Ioniq 6,11.2,"$42,450",Y,"$3,790.00",N
+Infiniti,QX50,31.4,"$41,000",N,"$1,305.00",N
+Infiniti,QX55,26.9,"$50,150",N,"$1,864.00",N
+Infiniti,Q50,13.5,"$43,050",Y,"$3,188.00",N
+Infiniti,QX60,14.5,"$49,650",N,"$3,424.00",Y
+Infiniti,QX80,16.6,"$74,150",N,"$4,466.00",Y
+Jaguar,F-Pace,32.1,"$57,000",N,"$1,775.00",N
+Jaguar,E-Pace,22.4,"$49,500",N,"$2,209.00",N
+Jaguar,XF,12.1,"$49,800",Y,"$4,115.00",N
+Jaguar,F-Type,14.4,"$77,900",Y,"$5,409.00",N
+Jeep,Compass,27.2,"$25,900",N,$952.00,N
+Jeep,Grand Cherokee,37.7,"$36,495",N,$968.00,N
+Jeep,Gladiator,35.5,"$39,620",N,"$1,116.00",N
+Jeep,Cherokee,25.8,"$37,695",N,"$1,461.00",N
+Jeep,Renegade,18.5,"$28,345",N,"$1,532.00",N
+Jeep,Wagoneer,27.4,"$62,945",N,"$2,297.00",N
+Jeep,Wrangler,12.9,"$31,995",N,"$2,480.00",N
+Jeep,Grand Wagoneer,27.4,"$92,540",N,"$3,377.00",N
+Kia,Sportage,39.6,"$27,190",N,$686.00,N
+Kia,Soul,24.2,"$20,190",N,$834.00,N
+Kia,Carnival,40.2,"$33,600",N,$835.00,Y
+Kia,Seltos,26.6,"$24,490",N,$920.00,N
+Kia,Rio Hatch,17.4,"$17,690",Y,"$1,016.00",N
+Kia,Niro ,22.8,"$26,940",N,"$1,181.00",N
+Kia,Rio,13.7,"$16,750",Y,"$1,222.00",N
+Kia,Forte,15.3,"$19,990",Y,"$1,306.00",N
+Kia,K5,16.0,"$25,590",Y,"$1,599.00",N
+Kia,Telluride,21.0,"$36,190",N,"$1,723.00",Y
+Kia,EV6,24.4,"$42,600",N,"$1,745.00",N
+Kia,Sorento,12.6,"$31,990",N,"$2,538.00",Y
+Kia,EV9,20.2,"$54,900",N,"$2,717.00",Y
+Land Rover,Range Rover Velar,30.9,"$61,500",N,"$1,990.00",N
+Land Rover,Range Rover Evoque,21.6,"$49,900",N,"$2,310.00",N
+Land Rover,Range Rover Sport,31.9,"$83,600",N,"$2,620.00",N
+Land Rover,Range Rover,40.7,"$107,400",N,"$2,638.00",N
+Land Rover,Defender 130,15.3,"$69,100",N,"$4,516.00",Y
+Land Rover,Defender 90,10.5,"$56,400",N,"$5,371.00",N
+Land Rover,Defender 110,10.7,"$60,600",N,"$5,663.00",Y
+Land Rover,Discovery,9.1,"$59,900",N,"$6,582.00",Y
+Land Rover,Discovery Sport,6.86,"$48,900",N,"$7,128.00",Y
+Lexus ,RZ,34.9,"$55,150",N,"$1,580.00",N
+Lexus ,RX,29.6,"$49,950",N,"$1,687.00",N
+Lexus ,NX,22.7,"$41,765",N,"$1,839.00",N
+Lexus ,LX,46.0,"$93,915",N,"$2,041.00",N
+Lexus ,UX Hybrid,17.1,"$37,490",N,"$2,192.00",N
+Lexus ,TX,20.2,"$55,050",N,"$2,725.00",Y
+Lexus ,ES,13.9,"$43,190",Y,"$3,107.00",N
+Lexus ,IS,10.8,"$41,235",Y,"$3,818.00",N
+Lexus ,LS,16.95,"$80,685",Y,"$4,760.00",N
+Lexus ,GX,10.3,"$64,250",N,"$6,237.00",Y
+Lincoln,Nautilus,36.4,"$50,415",N,"$1,385.00",N
+Lincoln,Corsair,27.6,"$38,990",N,"$1,412.00",N
+Lincoln,Aviator,18.3,"$58,495",N,"$3,196.00",Y
+Lincoln,Navigator,20.9,"$82,765",N,"$3,960.00",Y
+Mazda,CX-50,31.4,"$30,300",N,$964.00,N
+Mazda,CX-5,30.0,"$29,300",N,$976.00,N
+Mazda,CX-30,20.2,"$24,995",N,"$1,237.00",N
+Mazda,Mazda 3 Hatch,20.1,"$25,690",Y,"$1,278.00",N
+Mazda,Mazda 3,13.2,"$24,170",Y,"$1,831.00",N
+Mazda,CX-90,14.9,"$37,845",N,"$2,539.00",Y
+Mazda,MX-5,4.59,"$28,985",Y,"$6,314.00",N
+Mazda,MX-5 RF,4.48,"$37,010",Y,"$8,261.00",N
+Mercedes Benz,GLE,33.3,"$62,650",N,"$1,881.00",N
+Mercedes Benz,E-Class Wagon,35.0,"$71,250",Y,"$2,035.00",N
+Mercedes Benz,GLC,21.9,"$47,100",N,"$2,150.00",N
+Mercedes Benz,GLA,15.4,"$41,850",N,"$2,717.00",N
+Mercedes Benz,GLC Coupe,17.6,"$54,700",N,"$3,107.00",N
+Mercedes Benz,E-Class,19.1,"$62,300",Y,"$3,261.00",N
+Mercedes Benz,GLB,12.4,"$44,450",N,"$3,584.00",Y
+Mercedes Benz,CLA Coupe,11.6,"$43,200",Y,"$3,724.00",N
+Mercedes Benz,C-Class,12.6,"$46,950",Y,"$3,726.00",N
+Mercedes Benz,G-Class,38.1,"$143,000",N,"$3,753.00",N
+Mercedes Benz,EQS,23.0,"$104,400",N,"$4,539.00",N
+Mercedes Benz,C-Class Coupe,10.5,"$49,550",Y,"$4,719.00",N
+Mercedes Benz,EQS,22.0,"$104,400",Y,"$4,745.00",N
+Mercedes Benz,EQB,10.7,"$52,570",N,"$4,913.00",Y
+Mercedes Benz,GLS,17.4,"$87,000",N,"$5,000.00",Y
+Mercedes Benz,EQE,14.0,"$77,900",N,"$5,564.00",N
+Mercedes Benz,S-Class,18.9,"$114,500",Y,"$6,058.00",N
+Mercedes Benz,CLS Coupe,11.9,"$76,500",Y,"$6,428.00",N
+Mercedes Benz,C-Class Cabriolet,8.8,"$57,250",Y,"$6,505.00",N
+Mercedes Benz,E-Class Coupe,10.0,"$69,750",Y,"$6,975.00",N
+Mercedes Benz,AMG GT 4 Door,12.7,"$95,900",Y,"$7,551.00",N
+Mercedes Benz,E-Class Cabriolet,9.5,"$76,900",Y,"$8,094.00",N
+Mercedes Benz,SL Roadster,7.5,"$109,900",Y,"$14,653.00",N
+MINI,Countryman,17.6,"$32,650",N,"$1,855.00",N
+MINI,Clubman,17.5,"$34,050",Y,"$1,945.00",N
+MINI,Hardtop 4 Door,13.1,"$26,800",Y,"$2,045.00",N
+MINI,Hardtop 2 Door,8.7,"$25,800",Y,"$2,965.00",N
+MINI,Convertible,5.7,"$35,700",Y,"$6,263.00",N
+Mitsubishi,Mirage,17.1,"$16,695",Y,$976.00,N
+Mitsubishi,Outlander Sport,21.7,"$23,695",N,"$1,091.00",N
+Mitsubishi,Eclipse Cross,23.4,"$26,345",N,"$1,125.00",N
+Mitsubishi,Outlander PHEV,30.8,"$40,345",N,"$1,309.00",N
+Mitsubishi,Mirage G4,12.4,"$17,795",Y,"$1,435.00",N
+Mitsubishi,Outlander,10.9,"$28,395",N,"$2,605.00",Y
+Nissan,Rogue,36.5,"$28,420",N,$778.00,N
+Nissan,Frontier,36.6,"$30,030",N,$820.00,N
+Nissan,Kicks,25.3,"$21,050",N,$832.00,N
+Nissan,Titan XD,47.3,"$52,200",N,"$1,103.00",N
+Nissan,Versa,14.7,"$16,390",Y,"$1,114.00",N
+Nissan,Titan,40.3,"$46,040",N,"$1,142.00",N
+Nissan,Murano,32.1,"$38,190",N,"$1,189.00",N
+Nissan,LEAF,23.6,"$28,140",Y,"$1,192.00",N
+Nissan,Sentra,14.3,"$20,890",Y,"$1,460.00",N
+Nissan,Altima,15.4,"$26,000",Y,"$1,688.00",N
+Nissan,ARIYA,22.8,"$43,190",N,"$1,894.00",N
+Nissan,Pathfinder,16.6,"$36,080",N,"$2,173.00",Y
+Nissan,Maxima,14.3,"$38,340",Y,"$2,681.00",N
+Nissan,Armada,16.5,"$55,720",N,"$3,376.00",Y
+Nissan,Z,6.9,"$42,310",Y,"$6,131.00",N
+Nissan,GTR,8.8,"$121,090",Y,"$13,760.00",N
+Polestar,Polestar 4,18.6,"$54,900",N,"$2,951.00",N
+Polestar,Polestar 2,14.4,"$49,900",N,"$3,465.00",N
+Polestar,Polestar 3,17.1,"$73,400",N,"$4,292.00",N
+Porsche,Cayenne,27.2,"$79,200",N,"$2,911.00",N
+Porsche,Macan,17.2,"$62,900",N,"$3,656.00",N
+Porsche,Cayenne Coupe,20.9,"$84,300",N,"$4,033.00",N
+Porsche,Macan 4 Electric,19.0,"$78,800",N,"$4,147.00",N
+Porsche,Panamera,17.4,"$102,800",Y,"$5,908.00",N
+Porsche,Taycan,14.3,"$99,400",Y,"$6,951.00",N
+Porsche,718 Cayman,9.7,"$68,300",Y,"$7,041.00",N
+Porsche,Taycan 4 Cross Turismo,15.7,"$111,100",Y,"$7,076.00",N
+Porsche,718 Boxster,5.2,"$70,400",Y,"$13,538.00",N
+Porsche,911 Carrera,4.6,"$114,400",Y,"$24,869.00",N
+Porsche,718 Cayman GT4 RS,4.8,"$160,700",Y,"$33,479.00",N
+Porsche,911 Turbo,4.5,"$197,200",Y,"$43,822.00",N
+Rivian,R1T,28.8,"$69,900",N,"$2,427.00",N
+Rivian,R1S,17.7,"$74,900",N,"$4,231.00",Y
+Subaru ,Outback,32.6,"$28,895",N,$886.00,N
+Subaru ,Forester,28.9,"$27,095",N,$937.00,N
+Subaru ,Impreza,20.4,"$22,995",Y,"$1,127.00",N
+Subaru ,Crosstrek,19.9,"$25,195",N,"$1,266.00",N
+Subaru ,Legacy,15.1,"$24,895",Y,"$1,648.00",N
+Subaru ,Solterra,23.8,"$44,995",N,"$1,890.00",N
+Subaru ,Ascent,17.8,"$34,395",N,"$1,932.00",Y
+Subaru ,WRX,12.5,"$32,735",Y,"$2,618.00",N
+Subaru ,BRZ,6.3,"$30,195",Y,"$4,792.00",N
+Tesla,Model Y,30.2,"$44,990",N,"$1,489.00",N
+Tesla,Model 3,24.0,"$38,990",Y,"$1,624.00",N
+Tesla,Model S,28.0,"$74,990",Y,"$2,678.00",N
+Tesla,Model X,15.0,"$79,990",N,"$5,332.00",Y
+Toyota,Tacoma,45.5,"$31,500",N,$692.00,N
+Toyota,RAV4,37.6,"$28,675",N,$762.00,N
+Toyota,Corolla Cross,24.0,"$23,860",N,$994.00,N
+Toyota,Sienna,33.5,"$37,685",N,"$1,124.00",Y
+Toyota,Prius,23.8,"$27,950",Y,"$1,174.00",N
+Toyota,Venza,28.8,"$35,070",N,"$1,217.00",N
+Toyota,Corolla Hatch,17.8,"$23,505",Y,"$1,320.00",N
+Toyota,Land Cruiser,37.5,"$55,950",N,"$1,492.00",N
+Toyota,bZ4X,27.7,"$43,070",N,"$1,554.00",N
+Toyota,Prius Prime,20.3,"$32,975",Y,"$1,624.00",N
+Toyota,Corolla,13.1,"$22,050",Y,"$1,683.00",N
+Toyota,Camry,15.1,"$26,420",Y,"$1,749.00",N
+Toyota,Grand Highlander,20.6,"$43,320",N,"$2,102.00",Y
+Toyota,GR86,13.2,"$29,300",Y,"$2,219.00",N
+Toyota,Highlander,16.0,"$39,270",N,"$2,454.00",Y
+Toyota,Crown,15.2,"$40,350",Y,"$2,654.00",N
+Toyota,Sequoia,22.3,"$61,275",N,"$2,747.00",Y
+Toyota,4Runner,9.0,"$40,705",N,"$4,522.00",Y
+Toyota,GR Supra,10.2,"$46,440",Y,"$4,552.00",N
+Toyota,Mirai,9.6,"$50,190",Y,"$5,228.00",N
+Volkswagen,Taos,27.9,"$23,995",N,$860.00,N
+Volkswagen,Atlas Cross Sport,40.3,"$36,985",N,$917.00,N
+Volkswagen,ID.4,30.3,"$39,735",N,"$1,311.00",N
+Volkswagen,Jetta,14.1,"$21,435",Y,"$1,520.00",N
+Volkswagen,Arteon,27.2,"$43,010",Y,"$1,581.00",N
+Volkswagen,Golf GTI,19.9,"$31,965",Y,"$1,606.00",N
+Volkswagen,Atlas,20.6,"$37,995",N,"$1,844.00",Y
+Volkswagen,Tiguan,12.0,"$28,880",N,"$2,406.00",Y
+Volvo,XC60,22.4,46900,N,"$2,093.00",N
+Volvo,V90,25.2,59800,Y,"$2,373.00",N
+Volvo,XC40,16.0,40500,N,"$2,531.00",N
+Volvo,V60,18.3,50300,Y,"$2,748.00",N
+Volvo,EX30,11.2,34950,N,"$3,120.00",N
+Volvo,C40,15.0,53600,N,"$3,573.00",N
+Volvo,S60,11.6,42450,Y,"$3,659.00",N
+Volvo,S90,13.5,58300,Y,"$4,318.00",N
+Volvo,XC90,12.6,56600,N,"$4,492.00",Y
+Volvo,EX90,10.9,76695,N,"$7,036.00",Y
